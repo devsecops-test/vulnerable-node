@@ -1,3 +1,3 @@
-@Library('io-library-javascript')
+@Library('io-library')
 import com.synopsys.*
 new pipeline.SecurityPipeline().execute()
